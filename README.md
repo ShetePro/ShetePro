@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: E-Mail: sheteprolin@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shetePro)](https://github.com/anuraghazra/github-readme-stats)
+![ShetePro github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ShetePro)
+
