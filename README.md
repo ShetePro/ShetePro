@@ -31,7 +31,5 @@ Here are some ideas to get you started:
 - 😍 I like JavaScript. My preferred framework is Vue.
 - 📫 How to reach me: E-Mail: sheteprolin@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ShetePro&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShetePro&layout=compact&theme=tokyonight)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shetePro)](https://github.com/anuraghazra/github-readme-stats)
