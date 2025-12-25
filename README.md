@@ -20,6 +20,7 @@ I am an Web Front-end Developer 🚀 from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 ## 📊  Stats
+![](https://github-readme-activity-graph.vercel.app/graph?username=ShetePro&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=false&hide_border=false)
 ![ShetePro github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ShetePro)
 <p align="center">
   <picture>
@@ -28,13 +29,13 @@ I am an Web Front-end Developer 🚀 from China.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShetePro&theme=dark" />
   </picture>
 </p>
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ShetePro&theme=onedark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ShetePro" />
     <img src="https://github-profile-trophy.vercel.app/?username=ShetePro&theme=onedark" />
   </picture>
-</p>
+</p> -->
 <!--
 
 Here are some ideas to get you started:
